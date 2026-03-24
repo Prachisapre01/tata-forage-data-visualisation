@@ -48,7 +48,7 @@ Revenue = SUMX('Online Retail', 'Online Retail'[Quantity] * 'Online Retail'[Unit
 
 ## Dashboard Preview
 
-![Dashboard](tata_forage_full_dashboard.png)
+![Dashboard](images/tata_visualization_dashboard.png)
 
 ## Dashboard File
 
